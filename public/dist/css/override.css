@@ -1,0 +1,69 @@
+.select2-container {
+    width: 100% !important;
+}
+
+
+.user-panel>.info>p>a {
+	color: white;
+}
+
+.user-panel>.image>a>img {
+	max-width: 45px;
+}
+
+.datepicker {
+	z-index: 10000!important;
+}
+
+.timeline .user-image {
+	width: 30px;
+    height: 30px;
+    position: absolute;
+    border-radius: 50%;
+    left: 18px;
+    top: 2px;
+}
+
+.external-event>a {
+    color:white;
+}
+
+.attachments>li .tools {
+    display: none;
+    float: right;
+    color: #dd4b39;
+}
+.attachments>li .tools>a {
+    color: #dd4b39;
+}
+
+.attachments>li:hover .tools {
+    display: inline-block;
+}
+
+.bets {
+    list-style-type: none;
+}
+
+.bets> li > .tools {
+
+        margin-top:5px;
+}
+
+.challenger > .prize {
+    display: none;
+}
+
+.challenger:hover > .prize {
+    display: block;
+}
+
+.prize {
+    width: 250px; 
+    margin-top:-300px;
+    margin-left: 15%;
+}
+
+.link-row {
+    cursor: pointer;;
+}
